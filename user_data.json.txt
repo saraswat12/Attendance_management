@@ -1,0 +1,4 @@
+[
+    {"username": "superadmin", "password": "adminpass", "role": "super_admin"}
+    
+]
